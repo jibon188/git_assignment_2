@@ -7,4 +7,4 @@ Updates made:
 4. Checked branch workflow
 5. Participated in pull request process
 
-This demonstrates multi-user collaboration in GitHub.
+
